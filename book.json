@@ -1,0 +1,83 @@
+{
+  "title": "title",
+  "author": "henrylee2cn",
+  "plugins": [
+    "-lunr",
+    "-search",
+    "search-pro",
+    "-sharing",
+    "disqus",
+    "github-buttons",
+    "editlink",
+    "ga",
+    "-highlight",
+    "prism",
+    "bibtex-indexed-cite",
+    "anchor-navigation-ex",
+    "page-footer-ex",
+    "splitter",
+    "todo",
+    "copy-code-button",
+    "expandable-chapters-small",
+    "donate"
+  ],
+  "pluginsConfig": {
+    "search-pro": {
+      "cutWordLib": "nodejieba",
+      "defineWord": [
+        "Gitbook Use"
+      ]
+    },
+    "anchor-navigation-ex": {
+      "showLevel": false
+    },
+    "disqus": {
+      "shortName": "erpc-book"
+    },
+    "github-buttons": {
+      "buttons": [
+        {
+          "user": "henrylee2cn",
+          "repo": "erpc-book",
+          "type": "star",
+          "size": "small",
+          "count": true
+        }
+      ]
+    },
+    "editlink": {
+      "base": "https://github.com/henrylee2cn/erpc-book/blob/master",
+      "label": "Edit",
+      "multilingual": false
+    },
+    "ga": {
+      "token": "UA-131910384-3"
+    },
+    "prism": {
+      "ignore": [
+        "mermaid",
+        "eval-js"
+      ],
+      "css": [
+        "prismjs/themes/prism-solarizedlight.css"
+      ]
+    },
+    "page-footer-ex": {
+      "copyright": "By [henrylee2cn](https://github.com/henrylee2cn)，使用[知识共享 署名-相同方式共享 4.0协议](https://creativecommons.org/licenses/by-sa/4.0/)发布",
+      "markdown": true,
+      "update_label": "此页面修订于：",
+      "update_format": "YYYY-MM-DD HH:mm:ss"
+    },
+    "bibtex-indexed-cite": {
+      "path": "/"
+    },
+    "donate": {
+      "wechat": "https://henrylee2cn.github.io/erpc-book/wechat.jpg",
+      "alipay": "https://henrylee2cn.github.io/erpc-book/alipay.jpg",
+      "title": "",
+      "button": "赏",
+      "alipayText": "支付宝打赏",
+      "wechatText": "微信打赏"
+    }
+  }
+}
