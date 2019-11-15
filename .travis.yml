@@ -31,4 +31,4 @@ branches:
 
 env:
   global:
-    - REF=github.com/henrylee2cn/gitbook-template.git # 设置 github 地址
+    - REF=github.com/henrylee2cn/erpc-book.git # 设置 github 地址
