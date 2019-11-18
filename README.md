@@ -148,3 +148,10 @@ import "github.com/henrylee2cn/erpc/v6"
 &nbsp;&nbsp;
 <a href="http://www.kejishidai.cn"><img src="http://simg.ktvms.com/picture/logo.png" height="70" alt="北京可即时代网络公司"/></a>
 <a href="https://www.kuaishou.com/"><img src="https://inews.gtimg.com/newsapp_bt/0/4400789257/1000" height="70" alt="快手短视频平台"/></a>
+
+## 附
+
+eRPC 原名 Teleport，以下是一些相关介绍文章，可供参考：
+
+1. [《Go Socket编程之teleport框架是怎样炼成的？》](https://github.com/henrylee2cn/tpdoc/blob/master/01/README.md)
+2. [《聊聊 Go Socket 框架 Teleport 的设计思路》](https://github.com/henrylee2cn/tpdoc/blob/master/02/README.md)
