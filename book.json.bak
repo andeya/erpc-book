@@ -18,7 +18,8 @@
     "splitter",
     "todo",
     "copy-code-button",
-    "expandable-chapters-small"
+    "expandable-chapters-small",
+    "donate"
   ],
   "pluginsConfig": {
     "search-pro": {
@@ -69,6 +70,14 @@
     },
     "bibtex-indexed-cite": {
       "path": "/"
+    },
+    "donate": {
+      "wechat": "https://henrylee2cn.github.io/erpc-book/wechat.jpg",
+      "alipay": "https://henrylee2cn.github.io/erpc-book/alipay.jpg",
+      "title": "",
+      "button": "赏",
+      "alipayText": "支付宝打赏",
+      "wechatText": "微信打赏"
     }
   }
 }
