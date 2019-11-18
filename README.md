@@ -1,5 +1,5 @@
-# erpc-book
+# eRPC Handbook
 
-This is handbook of [eRPC](https://github.com/henrylee2cn/erpc) that is an efficient, extensible and easy-to-use RPC framework.
+[eRPC](https://github.com/henrylee2cn/erpc) 是一个高效、可扩展且简单易用的 RPC 框架。
 
-Suitable for RPC, Microservice, Peer-to-Peer, IM, Game and other fields.
+适用于 RPC、微服务、点对点长连接、IM 和游戏等领域。
